@@ -1,0 +1,889 @@
+Abilene - Braaten, Jeffrey - 56
+Abilene - Friberg, Robert - 61
+Abilene - White, Randy L. - 53
+Allen - Allen, Lisa M - 36
+Allen - Mannon, Amber B - 38
+Allen - Martinez, Edgar C. - 34
+Allen - Mcdole, Susana - 42
+Allen - Rankin, Greg - 46
+Allen - Rudolph, Barbara M - 48
+Allen - Schantz-Hagelberg, Enid - 57
+Allen - Wilson, Bryce L. - 66
+Allen - Zhu, Meifang - 61
+Amarillo - Hennessey, Charlie A - 53
+Amarillo - Tony, Stuart L. - 55
+Angleton - Burns, Lenord - 66
+Angleton - Crouch, Stewart W - 51
+Angleton - Ward, Andrew B. - 45
+Arlington - Arnier, Jeffery C. Sr. - 56
+Arlington - Gray, Kim - 38
+Arlington - Jenkins, Tiffany D. - 39
+Arlington - Johnson, Paul E - 67
+Arlington - Lichnovsky, Larry - 65
+Arlington - Lissak, Carly S - 20
+Arlington - Norman, Jillian M. - 35
+Arlington - Rodgers, Thomas - 52
+Arlington - Russey, Daniel - 26
+Arlington - Williams, Brent M. - 20
+Austin - Hunt, Patrick J. - 21
+Austin - Smith, Cameryn L. - 22
+Austin - Boyd, Rebecca - 24
+Austin - Sadler, Jeff - 24
+Austin - Scarborough, Smith M. - 24
+Austin - Bixler, Shannon E. - 25
+Austin - Case, Scott W - 25
+Austin - Kincaid, Jena - 25
+Austin - Moench, Sarah - 25
+Austin - O'Connor, Abby - 25
+Austin - Shah, Asia - 25
+Austin - Wu, Liang - 25
+Austin - Betts, Megan R. - 26
+Austin - Brown, Warren R. II - 26
+Austin - Evola, Samantha R. - 26
+Austin - Feyereisen, Bill - 26
+Austin - Hill, Sarah C. - 26
+Austin - Merchant, Daniel - 26
+Austin - Fava, Carla A - 27
+Austin - Gent, Molly I. - 27
+Austin - Gonzales, Jessica - 27
+Austin - Bock-Nelson, Wesley-Anne - 28
+Austin - Brotzman, Theresa - 28
+Austin - Dikanovyoung, Dasha - 28
+Austin - Galante, Michael - 28
+Austin - Leonard, Alan - 28
+Austin - Taylor, Rachel E - 28
+Austin - Campbell, Sarah - 29
+Austin - Dodge, Robyn L. - 29
+Austin - Hatch, Adrian - 29
+Austin - Orten, Mercedes E. - 29
+Austin - Ostrander, Brandon S - 29
+Austin - Winters, Kerri L - 29
+Austin - Esler, Ty J - 30
+Austin - Ice, Andrew - 30
+Austin - Morton, Bryan M - 30
+Austin - Schwartz, Jennifer - 30
+Austin - Mckenna, Edward P - 31
+Austin - Patel, Ashish - 31
+Austin - Trammell, Sarah B. - 31
+Austin - Johnson, Mitch - 32
+Austin - Pohlit, Lisa - 32
+Austin - Robison, Cherisse - 32
+Austin - Bergman, Marc J. - 33
+Austin - Cody, Butler - 33
+Austin - Oconnor, Megan - 33
+Austin - Orozco Valdes, Gerardo - 33
+Austin - Euston, Todd - 34
+Austin - Mcelvain, Dawn - 34
+Austin - Sneller, Phil - 34
+Austin - Yee, Helen - 34
+Austin - Blair, Rachael L - 35
+Austin - Holland, Amie - 35
+Austin - Lemonds, Paula Jo - 35
+Austin - Messegee, Emily A. - 35
+Austin - Bell, Colin A. - 36
+Austin - Buckley, Lisa - 36
+Austin - Heise, Liberty L. - 36
+Austin - Jones, Todd L - 36
+Austin - Musal, Rasim M - 36
+Austin - Patterson, Sunday - 36
+Austin - Tipton, Chris H - 36
+Austin - Urquidez, Ginger - 36
+Austin - Van Delden, Darren - 36
+Austin - Yavorsky, Richard A Jr. - 36
+Austin - Bergstrom, Amanda M. - 37
+Austin - Bettis, Graham - 37
+Austin - Frazier, Talaya A. - 37
+Austin - Russell, Andrew - 37
+Austin - Shah, Kamran - 37
+Austin - Urquidez, Joe - 37
+Austin - Wise, Neal J - 37
+Austin - Yesian, Bonnie - 37
+Austin - Farley, Amy L - 38
+Austin - Gardner, Alison - 38
+Austin - Livaudais, Frank - 38
+Austin - Ogilvie, Colleen F - 38
+Austin - Quinn, Wendy - 38
+Austin - Wedel, Michael A - 38
+Austin - Rivera, Douglas - 39
+Austin - Ward, Brian - 39
+Austin - Beck, Kinan - 40
+Austin - Boley, Julie - 40
+Austin - Brown, Michael F. - 40
+Austin - Fitzpatrick, Jim - 40
+Austin - Harvey, Colin - 40
+Austin - Hyland, Eileen - 40
+Austin - Mcginnis, Suzanne J - 40
+Austin - Dale, Jennifer - 41
+Austin - Garrett, Matthew - 41
+Austin - Gomez, Ivan D. - 41
+Austin - Johnson, Lesley - 41
+Austin - Lilley, Sean C. - 41
+Austin - Moore, Jim - 41
+Austin - Moore Lewis, Hannah - 41
+Austin - Stanley Torres, Dana J - 41
+Austin - Stewman, Amy - 41
+Austin - Williams, Tara R - 41
+Austin - Eldridge, Kim - 42
+Austin - Lein, David - 42
+Austin - Ryan, Michelle R - 42
+Austin - Storey, Eric - 42
+Austin - Willis, Steve A. - 42
+Austin - Berti, Joe G. - 43
+Austin - George, Brenda - 43
+Austin - Greer, William W. - 43
+Austin - Groten, Maria - 43
+Austin - Jessen, Stacy L - 43
+Austin - Jones, Laci D - 43
+Austin - Andrae, Dana - 44
+Austin - Carmical, Phillip - 44
+Austin - Chase, Steve - 44
+Austin - Drymalla, Laurie J. - 44
+Austin - Etheridge, Eric - 44
+Austin - Owan, Christopher T - 44
+Austin - Terracina, Joe - 44
+Austin - Babb, Kevin A. - 45
+Austin - Barclay, Leslie L - 45
+Austin - Durr, Craig - 45
+Austin - Fry, Gail - 45
+Austin - Guttell, Jonathan - 45
+Austin - Moore, Robert K - 45
+Austin - Moore, Steven E - 45
+Austin - Park, Mia - 45
+Austin - Pham, Theresa T - 45
+Austin - Reynolds, Renee M - 45
+Austin - Schwalm, David - 45
+Austin - Tenney, S. Monique - 45
+Austin - Ward, Don A - 45
+Austin - Williams, Kim - 45
+Austin - Bochaton, Philippe M - 46
+Austin - Dubrawsky, Malka - 46
+Austin - Gitre, Mike - 46
+Austin - Iyer, Vishy - 46
+Austin - Little, Kent - 46
+Austin - Mendicino, Michael A. - 46
+Austin - Sundstrom, David - 46
+Austin - Thurman, Francie - 46
+Austin - Underbrink, Paul - 46
+Austin - Watson, Scott - 46
+Austin - Elmrabet, Karim - 47
+Austin - Fariss, Mark E - 47
+Austin - Maples, Keith - 47
+Austin - Sankar, Alicia Q. - 47
+Austin - Anderson, Amy - 48
+Austin - Dasso, Nancy - 48
+Austin - Levitan, Susan - 48
+Austin - Moody, David D. - 48
+Austin - Rigatti, Jean - 48
+Austin - Smith, Walter - 48
+Austin - Zaia, Anthony F. - 48
+Austin - Bright, Larry N - 49
+Austin - Canik, Robert - 49
+Austin - Carmona, Paul D. - 49
+Austin - Cleary, James M - 49
+Austin - Enstone, Mark - 49
+Austin - Present, Cindy A - 49
+Austin - Sanchez, Rudolph T - 49
+Austin - Mallory, Nancy - 50
+Austin - Moffat, Alex J. - 50
+Austin - Nuckolls, Charles - 50
+Austin - Berke, Stuart A - 51
+Austin - Mora, Ron - 51
+Austin - Shuffield, Joseph - 51
+Austin - Wagner, John R. - 51
+Austin - Webster, Scott - 51
+Austin - Isaac Cura, Alicia M - 52
+Austin - Reynolds, Willie - 52
+Austin - Allen, James - 53
+Austin - Dunn, George M. - 53
+Austin - White, Larry C - 53
+Austin - Goyer, Robert - 54
+Austin - Hahn, Russell D - 54
+Austin - Silveyra, Armando Sr. - 54
+Austin - Allen, Mac - 55
+Austin - Holland, Steve - 55
+Austin - Hull, Mike - 55
+Austin - Williams, Paul - 55
+Austin - Breen, Michael T. - 57
+Austin - Boyce, Sabina P. - 58
+Austin - Camarillo, Mariano - 58
+Austin - Ballinger, Richard H. III - 59
+Austin - Herzik-Ralph, Marcia - 59
+Austin - Santos, Bob - 60
+Austin - Fry, Michael - 65
+Austin - Hodgkiss, Melvin - 66
+Austin - Wiley, James C. - 67
+Azle - McBride, Wade - 55
+Ballinger - Burgess, Samanatha R. - 28
+Beaumont - Frazier, Joseph M. II - 27
+Beaumont - Villarreal, Daniel C. - 29
+Bedford - Trejo, Maria - 28
+Bellaire - Bookstaff, Howard - 52
+Bellaire - Chang, Cheney - 33
+Bellaire - Taylor, Cindy C. - 44
+Benbrook - Reynolds, Todd - 45
+Boerne - Jones, Von - 44
+Boerne - Reetz Saverance, Christiane S - 46
+Boerne - Rodriguez, Michael E. - 45
+Boerne - Sherwood, Thomas L. - 54
+Brenham - Fleetwood, Courtney E - 34
+Brenham - Pauler, Shae - 37
+Bryan - Ly, Lan H. - 34
+Buda - Hermon, Maria - 55
+Buda - Hill, James L. - 73
+Burleson - Rodriguez, Frank J. Jr. - 51
+Carrollton - Robinett, Kelly E. - 64
+Carrollton - Rosiles, Westyn W - 24
+Carrollton - Udell, Brittney L. - 23
+Cedar Hill - Souza, Jonathan A - 33
+Cedar Park - Doehring, John C - 28
+Cedar Park - Fountain, Melinda K. - 45
+Cedar Park - Garza, David - 36
+Cedar Park - Harmatuk, Matt - 40
+Cedar Park - Heerensperger, Mark - 34
+Cedar Park - Hernandez, Danny M. - 36
+Cedar Park - Kelley, Angelica - 41
+Cedar Park - Potts, Craig - 58
+Cedar Park - Russell, Karen - 36
+Cedar Park - Sheard, Timo - 49
+Cleveland - Bugner, Doug D - 55
+Clyde - Southall, Belinda J. - 26
+Coldspring - Foster, Burk - 65
+College Station - Genetti, Anita J. - 31
+College Station - Ginnings, Zachary - 22
+College Station - Raphael, Leonard S - 59
+College Station - Robinson, Haywood J. - 60
+College Station - Shandley, Robert R. - 49
+College Station - Welch, Tommy G - 70
+Colleyville - Clark, Debbie H. - 60
+Colleyville - Hudson, Paul H - 55
+Colleyville - Pipkin, Sherry M. - 58
+Colleyville - Wedemeyer, Russ J. - 51
+Colleyville - Zanko, Marcin - 42
+Conroe - Ashton, Karyn - 36
+Conroe - Gohlke, Kristen A. - 27
+Coppell - Dukes, Kim - 44
+Coppell - Kildea, Kevin - 51
+Coppell - LaMothe, Gregory J. - 66
+Coppell - Sandfort, J. D. - 48
+Copperas Cove - Johnson, Barbara - 57
+Corpus Christi - Goossens-Winter, Roswitha - 64
+Corpus Christi - Patterson, Donald B. - 36
+Corpus Christi - Trotter, Paul - 57
+Cypress - Delizio, Andrew - 41
+Cypress - Fonderoli, Konni J - 53
+Cypress - Rios, Reynaldo - 41
+Cypress - Thurber, Mark - 58
+Dallas - Neto, Pedro M. - 21
+Dallas - Desilets, Melissa C. - 23
+Dallas - Dominy, David - 25
+Dallas - Daniels, Marissa - 26
+Dallas - Flack, Jennifer L - 26
+Dallas - Rubin, Adam - 26
+Dallas - Daubert, Alison L. - 27
+Dallas - Gump, Allyson K - 27
+Dallas - Nuffer, Lauren - 27
+Dallas - Sherman, Logan - 27
+Dallas - Campbell, Kathryn T. - 28
+Dallas - Fisher, Laura W. - 28
+Dallas - Hazard, Lindsay - 28
+Dallas - Jeon, Tina - 28
+Dallas - Woodle, Brent A. - 28
+Dallas - Klein, Amanda R. - 29
+Dallas - Ramos, Briseida E. - 29
+Dallas - Smyth, Megan L. - 29
+Dallas - Gillis, Steve - 30
+Dallas - Henry, John-Paul - 30
+Dallas - Hytken, Rachel - 30
+Dallas - Wood, Caleb D - 31
+Dallas - Wickard, G Grant - 32
+Dallas - Pai, Ajith - 33
+Dallas - Yost, Brent - 33
+Dallas - Ayres, James M. IV - 34
+Dallas - Mcgaughey, Melissa - 34
+Dallas - Waldorff, Erik - 34
+Dallas - Dymott, Jean - 35
+Dallas - Lasko, Matthew E. - 35
+Dallas - Smith, Sarah B. - 35
+Dallas - Cook, Chad - 36
+Dallas - Durkes, Paul E - 36
+Dallas - Storey, Erin - 36
+Dallas - Yervasi, Stacey L - 36
+Dallas - Jones, Nadine - 37
+Dallas - Konig, Jordan A - 37
+Dallas - Lawrence, David J. - 37
+Dallas - Norris, Sabine - 37
+Dallas - Johnston, Kelli - 38
+Dallas - Saylor, Austin - 38
+Dallas - Stemberger, Scott - 38
+Dallas - Watling, Robert A. - 38
+Dallas - Brink, Ann H. - 39
+Dallas - Honrath, Jerod - 39
+Dallas - Madden, Kristi - 39
+Dallas - Oxford, Elizabeth - 39
+Dallas - Searfus, Matthew - 39
+Dallas - Smith, Stephanie - 39
+Dallas - Burns, Warren T. - 40
+Dallas - Engel, Katherine C. - 40
+Dallas - Parker, Ross H - 40
+Dallas - Sharpe, Jennifer - 40
+Dallas - Houdek, Amy C - 41
+Dallas - Jones, David D. - 41
+Dallas - Lee, Karen L. - 41
+Dallas - Chamblee, Tracy - 42
+Dallas - Taylor, Carolyn - 42
+Dallas - Burns, John L. Jr. - 43
+Dallas - Diaz, Alejandro - 43
+Dallas - Malcolmson, Stacey - 43
+Dallas - Olden, Scott - 43
+Dallas - Wheeler, Scott - 43
+Dallas - Bryant, Trey III - 44
+Dallas - Grumbles, Diana C. - 44
+Dallas - Walters, Mitch - 44
+Dallas - Hartl, Tony - 45
+Dallas - Johnson, Debra B. - 45
+Dallas - Polak, Sam J - 45
+Dallas - Darlington, Tami - 46
+Dallas - Emerson, Kristin M - 46
+Dallas - Horstman, Mark - 46
+Dallas - Huerta, Sergio - 46
+Dallas - Work, William R. - 46
+Dallas - Eder, John - 47
+Dallas - Held, Michael S. - 47
+Dallas - Madrazo, Janet E. - 47
+Dallas - Matthews, Marcie - 47
+Dallas - Mikeska, Michael M. - 47
+Dallas - Miller, Craig - 47
+Dallas - Owen, Karen G - 47
+Dallas - Crevecoeur, Martina - 50
+Dallas - McCracken, Ronald S. - 50
+Dallas - Meachum, Robert W - 50
+Dallas - Weber, James H - 50
+Dallas - Blackwood, Beth Ann - 51
+Dallas - Cullen, Constance - 51
+Dallas - Dorrill, Jeff W - 51
+Dallas - Ochoa, George - 52
+Dallas - Blackman, Chris - 53
+Dallas - Johnson, Ruth - 53
+Dallas - Monks, Steve - 53
+Dallas - Barker, Glenn V. - 54
+Dallas - Shelby, Patrice F. - 55
+Dallas - Adams Chapman, Nancy D - 56
+Dallas - Baldwin Brown, Juli - 56
+Dallas - Grant, Cathal - 56
+Dallas - Manaugh, Wally - 59
+Dallas - Kim, Eunsup - 60
+Dallas - Adams, Lawrence C. - 62
+Dallas - Harding, Steve - 62
+Dallas - Benson, Robert A - 63
+Dallas - Galbraith, Will Jr. - 63
+Dallas - Becker, Jack D. - 67
+Dallas - Lehew, Bob - 70
+Denison - Sulser, Dianna - 56
+Denton - Blaylock, Stacey - 24
+Denton - Dooley, Michael S - 41
+Denton - Graham, Christina M. - 26
+Denton - Hauge, Janice - 45
+Denton - Soprenuk, Sonia - 50
+Denton - Stukel, Russ - 49
+Denton - Zimmerer, Patrick - 28
+Desoto - Watkins, Jaulik K. - 31
+Dripping Springs - Kurpiewski, Stephanie - 47
+Dripping Springs - Langan, Janet M - 55
+East Bernard - Hlavinka, Terrance - 50
+El Paso - Becerra, Jorge - 38
+El Paso - Dominguez, Juan C - 52
+El Paso - Furnival, Thomas J - 71
+El Paso - Headley, Rene F. - 28
+El Paso - Jackson, Alexandra - 26
+El Paso - Lovitt, Robert M. - 29
+El Paso - Maiella, Lorraine - 46
+El Paso - Pitchkolan, Larisa I. - 43
+El Paso - Rash, Becky - 51
+El Paso - Rodriguez, Olga L - 51
+El Paso - Shaver, Kristen A - 42
+El Paso - Sozer, Mariaelena G - 48
+El Paso - Trejo, German L. - 51
+El Paso - Wannamaker, Constance R. - 40
+El Paso - Weddell, Jim - 50
+El Paso - Williamson, Carolee - 36
+Farmers Branch - Lopez, Julio A - 57
+Farmers Branch - Tovar, Carolyn - 51
+Flower Mound - Bedell, Beth - 33
+Flower Mound - Davis, Robert W. - 47
+Flower Mound - Gray, Amy M. - 32
+Flower Mound - Hanson, Rachel - 39
+Flower Mound - Hoang, Kiet - 39
+Flower Mound - Koppel, Lowell Jr. - 40
+Flower Mound - Mamzic, Curtis E. - 57
+Flower Mound - Martin, Tara - 35
+Flower Mound - Schwendinger, Ingrid L - 35
+Flower Mound - Swanson, Marie - 50
+Flower Mound - Wilford, Jennifer A. - 43
+Forney - Mcclintock, Ryan F - 28
+Fort Worth - Alexander, Jeff - 43
+Fort Worth - Bartlett, Stacy - 54
+Fort Worth - Cooper, Cecil M - 51
+Fort Worth - Holden, Wendy L. - 40
+Fort Worth - Mader, Jesse C - 30
+Fort Worth - Martin, Patrick S. - 44
+Fort Worth - McAlister, Jennifer L. - 41
+Fort Worth - Mcelroy, Robert - 46
+Fort Worth - McNeil, Jared - 25
+Fort Worth - Nielsen, Wayne S - 49
+Fort Worth - Olson, Ashley L. - 33
+Fort Worth - Olson, Tim - 44
+Fort Worth - Padgett, Elise M. - 26
+Fort Worth - Pearson, Eve - 34
+Fort Worth - Raney, Thomas R. - 53
+Fort Worth - Smith, Patti - 38
+Fort Worth - St. Clair, Suzanne W. - 38
+Fort Worth - Tharp, Tommy H. - 60
+Fredericksburg - Herzog, Glenn - 70
+Friendswood - Moyer, John W Jr. - 56
+Friendswood - Petty, Laurie A - 46
+Friendswood - Salazar, Julio C. Sr. - 47
+Frisco - Arai, Melinda B. - 41
+Frisco - Breese, Jeff - 48
+Frisco - Dorsett, Mark - 49
+Frisco - Evanson, Jeffrey S. - 44
+Frisco - Fugere, Trevin M - 39
+Frisco - Lillard, Brian N - 47
+Frisco - Lozano, Mandy - 35
+Frisco - Markwell, Anson - 35
+Frisco - Simon, Brent - 50
+Frisco - Simon, Julie L - 30
+Frisco - Waltman, Gerald - 53
+Garden Ridge - Cardy, Robyn A. - 46
+Garland - Bragg, Stephanie M. - 23
+Garland - Folmar, Jordan - 23
+Garland - Sherer, Diane - 50
+Garland - Wooten, Mark - 33
+Georgetown - Brooks, Stephen W. - 49
+Georgetown - Cleveland, Cynthia - 57
+Georgetown - Holloway, Clark D - 49
+Georgetown - Parisi, Louis A. - 51
+Georgetown - Potts, John - 55
+Georgetown - Starr, Dorothy - 52
+Granbury - French-Bearden, Annette - 52
+Granbury - Mckenna, David - 52
+Grand Prairie - Kirk, Jeff - 52
+Grand Prairie - Morgan, John H. Jr. - 42
+Grand Prairie - Robertson, Donald - 40
+Grand Prairie - Vance, Paul J. - 53
+Grapevine - Ball, David C - 53
+Grapevine - Casey, Colleen L - 39
+Grapevine - Mulholland, Roberta - 54
+Greenville - Herbert, Kevin - 50
+Greenville - Robins, Donita - 50
+Harker Heights - Perry, Julia A - 40
+Harker Heights - Sparks, Brigette L - 48
+Harker Heights - Sparks, Jerry - 60
+Hempstead - Nesbitt, Becky - 43
+Hidalgo - Garza, Fulgencio - 43
+Highland Village - Weir, Mark T - 41
+Highland Village - Weir, Mark T - 41
+Hitchcock - Martin, Lizi - 54
+Houston - Hooper, Kelly A. - 24
+Houston - Ontko, Robert J - 24
+Houston - Dolson, Leanna M - 25
+Houston - Sizer, Brooke E. - 25
+Houston - Puzio, Glenn - 26
+Houston - Stark, Briana - 26
+Houston - Gie, Jennifer L. - 27
+Houston - Hall, Elvira - 27
+Houston - Hoffman, Matt - 27
+Houston - Cater-Cyker, Zachary - 28
+Houston - Eichner, Eric - 28
+Houston - Fitch, Katie S - 28
+Houston - Leonard, Katie - 28
+Houston - Watson, Lauren - 28
+Houston - Brown, Kate R. - 29
+Houston - Cannizzaro, Katie D. - 29
+Houston - Izard, Marci - 29
+Houston - Omohundro, Ryan - 29
+Houston - Pearson, Monica J. - 29
+Houston - Young, Andrew J. - 29
+Houston - Brown, Jeffrey W. - 30
+Houston - Gill, Ryan P. - 30
+Houston - Legrande, Tristan N - 30
+Houston - Simpson, Tyler - 30
+Houston - Lionberger, Stephanie J. - 31
+Houston - Rodriguez, Pam N. - 31
+Houston - Hunt, Brad - 32
+Houston - Shek, May - 32
+Houston - Short, Kylee J. - 32
+Houston - Crane, Alan D. - 33
+Houston - Dill, Erik - 33
+Houston - Iglesia, Vanessa E. - 33
+Houston - Wilder, Lauren - 33
+Houston - Colvin, Lindsay B. - 34
+Houston - Harkins, Nathan W - 34
+Houston - Rodriguez, Claudio E. - 34
+Houston - Desousa, Carlos A. - 35
+Houston - Miller, Adam W - 35
+Houston - Minisini, Daniel - 35
+Houston - Sanchez, Andres - 35
+Houston - Seel, Natalie - 35
+Houston - Sullivan, Susan - 35
+Houston - Wilbanks, Mitch - 35
+Houston - Acosta, Jose - 36
+Houston - Busceme, Carmen - 36
+Houston - Craft, Amy - 36
+Houston - Gomez, Gabe - 36
+Houston - Jackson, Rachel - 36
+Houston - Maples, Matthew W - 37
+Houston - Walker, Taryn - 37
+Houston - Devia, Jesman - 38
+Houston - Espinosa, Andrew - 38
+Houston - Kinzel, Jason B - 38
+Houston - Smith, Emily Lopater - 38
+Houston - Zamora, Gabriel A. - 38
+Houston - Carson, Edward - 39
+Houston - Golden, Cyndi - 39
+Houston - Hebert, Cortney K. - 39
+Houston - Kruppa, Catherine C - 39
+Houston - Pham, Doan N - 39
+Houston - Reed, James A. - 39
+Houston - Brand, Casey - 40
+Houston - Harvey, Thomas W - 40
+Houston - Stelzer, Chris - 40
+Houston - Schurk, Tisha C. - 41
+Houston - Tognarelli, Michael - 41
+Houston - Ederle, Nicole - 42
+Houston - Neubig, Pete - 42
+Houston - Sabin, Jenn R - 42
+Houston - Snell, Amy - 42
+Houston - Eisele, Jeff L - 43
+Houston - Fusi Goldberg, Loris - 43
+Houston - Ritchie, Norman W. - 43
+Houston - Williams, Jeff D - 43
+Houston - Mueller, Joelle - 44
+Houston - Potter, Jacquie A - 44
+Houston - Wakefield, Paul - 44
+Houston - Bedre, Jett George D. - 45
+Houston - Bennett, Laura - 45
+Houston - Bryan, J. B. - 45
+Houston - Thompson, Lisa J. - 45
+Houston - Nguyen, Vu - 46
+Houston - Smits, Juka - 46
+Houston - Torres, Arturo - 46
+Houston - Burdett, Guy - 47
+Houston - Ramirez, Garibaldis Sr. - 47
+Houston - Shamblen, David M. - 47
+Houston - Anderson, Lance - 48
+Houston - Dwyer, Barbara E. - 48
+Houston - Latimore, Robert T - 48
+Houston - Parizot, Brian - 48
+Houston - Sartin, Dave L Sr. - 48
+Houston - Czuba, Pamela J - 49
+Houston - Gardner, David - 49
+Houston - Morrell, Steve - 49
+Houston - Nemoto, David - 49
+Houston - Pilcher, Kimberly D. - 49
+Houston - Tharp, Carla T - 49
+Houston - Bitonte, Randy - 50
+Houston - Moss, Avi - 50
+Houston - Tonge, Jacob V - 50
+Houston - Azpiroz, Antonio - 52
+Houston - Toy, Eugene C. - 52
+Houston - Bermudez, Ramiro - 53
+Houston - Jeronimo, Abelino - 53
+Houston - Mccreary, Lauren - 53
+Houston - Smith, Kevin - 53
+Houston - Handy, Beverly C - 54
+Houston - Keith, Randall - 54
+Houston - Mayo, Diana J - 54
+Houston - Tang, Cynthia - 54
+Houston - Butler, Pam H. - 55
+Houston - McInerny, James P. - 55
+Houston - Soul, John P - 55
+Houston - Davis, Stephen D - 56
+Houston - Leone, Joe - 56
+Houston - Provenzano, Mark - 56
+Houston - Records, Bill - 56
+Houston - Halsey, Margaret A - 57
+Houston - Herman, Madelyn - 57
+Houston - Hexsel, Debra D. - 57
+Houston - Pond, Richard - 57
+Houston - Sopchak, Ben J. - 57
+Houston - Caledonia, Dana E. - 58
+Houston - Davis, Susan - 58
+Houston - Knies, Fred T. III - 58
+Houston - Hebert, Thomas J. - 60
+Houston - Mikeska, Rick - 60
+Houston - Beagle, Doug - 62
+Houston - Chow, Andrew - 63
+Houston - Spruell, Leigh K. - 63
+Houston - Velotas, Michael - 63
+Houston - May, Jo - 65
+Houston - Norris, John D - 65
+Houston - Hoekman, Robert E - 71
+Houston - Lindeen, Larry - 72
+Humble - Collazo, Eusebio - 32
+Hurst - Horne, Kyle C - 31
+Hurst - Studebaker, John M - 51
+Irving - Dolan, Meredith - 28
+Irving - Fernandez Marcos, Noel - 36
+Irving - Green, Kelly M. - 39
+Irving - Hailey, Robert M. - 38
+Irving - Jimenez, Dave - 40
+Irving - Montigue, Tre - 49
+Irving - Mrnustik, Kristin - 32
+Irving - Willis, Jennifer - 30
+Katy - Andersen, Eric E - 52
+Katy - Arthur, Donnadale - 49
+Katy - Bisig, Michele - 24
+Katy - Cagle, Michael L - 46
+Katy - Christie, Gordon - 43
+Katy - Debonis, Vince - 56
+Katy - Flores, Patrick D. - 48
+Katy - Fredrich, Rich - 55
+Katy - Harvey, Kimberly - 47
+Katy - Howard, Frances G. - 22
+Katy - Malloy, Lynn - 52
+Katy - Matheus, Maria C. - 45
+Katy - Rodriguez, Abraham - 50
+Katy - Sadberry, Denise - 46
+Katy - Sallee, Sarah - 34
+Katy - Sifuentes, Jesus - 28
+Katy - Spencer, Scott A. - 51
+Katy - Terc, Miriam - 54
+Katy - Vasquez, Allison S. - 34
+Keller - Biggerstaff, Toni - 43
+Keller - Bobe, Randy J. - 36
+Keller - Doyle, Jill D. - 40
+Keller - Forrest, Megan - 18
+Keller - Humphrey, Richard I. - 50
+Kerrville - Parton, Todd - 46
+Kingwood - Cheadle, Sally C - 53
+Kingwood - Evans, Norma L. - 43
+Kingwood - Fluker, Elizabeth A. - 45
+Kingwood - Heitzwebel, Tim - 55
+Kingwood - Korb, Jennifer - 41
+Kingwood - Marashi, Fred - 63
+Kingwood - McDermott, Joseph F. - 61
+Kingwood - Mullin, Mihaela - 52
+Kingwood - Saenz, Maaike D. - 46
+Kingwood - Smoot, Cindy M. - 40
+Kingwood - Snell, Ryan - 29
+Kyle - Davila, David Jr. - 36
+La Grange - Loughnane, Kevin - 56
+Lake Jackson - Colosimo, Kelly - 47
+Lake Jackson - Leidlein, Hugh - 53
+Lakeway - Bane, Ryan - 35
+Lancaster - Tharp, Michael A - 58
+Laredo - Garcia, Maribel - 53
+Laredo - King, Francisco J. - 52
+League City - West, Al - 41
+Leander - Larue, Carley A - 36
+Lewisville - Aviles, Kelley - 46
+Lewisville - Duty, Traci D - 33
+Lockhart - Hamlett, Trey - 53
+Longview - Collier, Christopher L - 31
+Longview - Peebles, James T. - 32
+Longview - Suits, Mary E. - 40
+Lubbock - Cheatwood, Dale Jr. - 34
+Lubbock - Fisher, Eric - 41
+Lubbock - Hendley, Deb H. - 63
+Lubbock - Moriearty, Tammy L - 39
+Lubbock - Pare, Paul W - 51
+Lubbock - Peikert, Brett - 45
+Lubbock - Rehwald, Jason - 36
+Lubbock - Rehwald, Megan - 37
+Lubbock - Tanui, Benjamin K. - 36
+Mansfield - Fikkert, Chimene W. - 41
+Mansfield - Metzger, Curt G. - 46
+Mansfield - Underdown, Garrett B - 37
+Marshall - Anderson, Jay - 43
+Marshall - Bach, Natalie - 27
+Mcallen - Acevedo, Enrique - 43
+Mcallen - Mendez Karr, Cynthia - 41
+Mcallen - Paez, Fernando - 45
+McAllen - Rand, Stephanie R. - 37
+Mckinney - Adams, Tamara L. - 34
+Mckinney - Mowers, Michael - 51
+Mckinney - Stepler, Joan - 49
+Mckinney - Vasta, Paul J - 50
+Mesquite - Marshall, William - 60
+Midland - Berrones, Steve - 45
+Midland - Crawford, Michael J - 37
+Midland - Gates, Paige H - 51
+Missouri City - Arriola, Francisco Jr. - 56
+Missouri City - Cain, Arburn - 44
+Murphy - Bieda, Paul - 51
+Murphy - Rankin, Monica - 40
+North Richland Hills - Blackwell, Janet I. - 45
+Odessa - Weaver, Kelly D - 41
+Orange - Britnell, Amanda K - 30
+Pearland - Conron, Claire A - 30
+Pearland - Holmes, Lisa - 45
+Pflugerville - Abels, Scott - 47
+Pharr - Azarang, Mohammad R. Sr. - 56
+Plano - Barbaro, Shirley - 58
+Plano - Bullard, Elaine G - 52
+Plano - Clifford, Catherine R. - 30
+Plano - Eslinger, Sheila M. - 36
+Plano - Grisham, C Keith - 42
+Plano - Harding, Stephen - 45
+Plano - Helton, Allen P. - 22
+Plano - Jones, David J. - 49
+Plano - Lind, Brent - 45
+Plano - Newcomb, Mark - 56
+Plano - Pernice, Sam - 46
+Plano - Rogers-Tracy, Kim - 35
+Plano - Stamos, Steve - 47
+Plano - Szumila, Tom - 50
+Plano - Vicary, Jan - 41
+Porter - Irvin, Jeffrey - 37
+Portland - Herrman, Marina - 53
+Prosper - Cooper, Erika - 39
+Prosper - Littlefield, Carly J. - 33
+Richardson - Byrd, Franklin - 48
+Richardson - Denny, Mark S. - 54
+Richardson - Gyr, Kiran A - 36
+Richmond - Buti, Gina - 52
+Richmond - Buxton, Spencer J - 20
+Richmond - Buxton, Wanda J - 50
+Richmond - Fedke, Alden - 28
+Richmond - Martin, Elizabeth R - 28
+Roanoke - Moore, Shandra C. - 27
+Rockwall - Dickey, Clyde - 55
+Rockwall - Lopez, Jose - 28
+Rockwall - Reynoso, Luis - 45
+Rockwall - Varner, Carrie G. - 53
+Rockwall - Zoch, Henry III - 30
+Rockwall - Zulejkic, Claudia P - 42
+Round Rock - Harshaw, Erica M - 36
+Round Rock - Schaetzel, Sarah R. - 52
+Round Rock - Toowey, Lee - 43
+Round Rock - Walker, Sarah M - 31
+Rowlett - Bueno, Ernie - 45
+Rowlett - Moore, Diana R. - 27
+Rowlett - Walsh, Dan L. - 46
+Sachse - Barber, Adana - 48
+Sachse - Schmidt, Brian - 44
+San Angelo - Haynes, Sebastian - 22
+San Antonio - Abouzahr, Fadi - 46
+San Antonio - Alderete, Carina L. - 31
+San Antonio - Alvarado, Amanda T - 36
+San Antonio - Alvarez, Rebecca A. - 39
+San Antonio - Barrera, Jesse E - 48
+San Antonio - Barry, Mike - 45
+San Antonio - Bass, Cara M - 26
+San Antonio - Chappell, William J - 38
+San Antonio - Coker, Byron K - 50
+San Antonio - Diaz, Joseph D. - 54
+San Antonio - Estrada, Phyllis Y. - 45
+San Antonio - Fay, Kristin - 39
+San Antonio - Fernandez De Castro, Mariana - 30
+San Antonio - Garza, Mauro - 49
+San Antonio - Gusman, Juan S Sr. - 60
+San Antonio - Hightower, Jeannie A - 43
+San Antonio - Johnson, Christine L - 40
+San Antonio - Kim, Sang - 39
+San Antonio - Lauer, Brian E. - 39
+San Antonio - Lucas, Kristi - 45
+San Antonio - Macon, Laurence - 68
+San Antonio - Marsh, William P. - 49
+San Antonio - Maturo, Stephen - 38
+San Antonio - McGhee, Chance M. - 46
+San Antonio - Merwarth, Michael A Jr. - 40
+San Antonio - Michell, Robert G. - 33
+San Antonio - Millican, Brent - 45
+San Antonio - Morash, April D. - 40
+San Antonio - Ortega, Arnulfo - 55
+San Antonio - Perez, Robert Sr. - 64
+San Antonio - Reasoner, Nadine A - 44
+San Antonio - Rieger, Samantha - 29
+San Antonio - Staehly, Marnie - 35
+San Antonio - Tammaro, Joe - 49
+San Antonio - Teitz, Richard S - 70
+San Antonio - Torgerson, Darrell - 50
+San Antonio - Walthall, Elizabeth - 21
+San Antonio - Wilson, Robert - 52
+San Marcos - Mere Prado, Javier - 28
+Schertz - Mitchell, Ricky - 42
+Seabrook - Erwin, Brian T - 39
+Seabrook - Ford, Gregory N. - 47
+Seabrook - Metcalf-Lindenburger, Dorothy M. - 37
+Seguin - Conover, Ward - 45
+Sherman - Marlow, Gary - 47
+Shoreacres - Rosas, Ruth M - 38
+South Padre Island - Elizondo, Juan - 51
+Southlake - Couch, Jason L. - 40
+Southlake - Douglas, Imelda J - 52
+Southlake - Okazaki, Thomas Y. - 56
+Southlake - Wallace, Heather D - 42
+Spring - Bailey, Derek A - 31
+Springtown - Elliott, Marc A. - 47
+Spring - Frazier, Brian D - 34
+Spring - Gigant, Christelle - 36
+Spring - Hudgens, Sara M. - 28
+Spring - Mason, Robert D. - 48
+Spring - Merino, Mike S. - 42
+Spring - Ray, Rochelle - 42
+Springtown - Elliott, Marc A. - 47
+Stephenville - White, Hudon - 60
+Stephenville - Wills, Jeff - 58
+Sugar Land - Behar, Jacobo - 44
+Sugar Land - Bordelon, Michael D. - 41
+Sugar Land - Broyles, Jan - 51
+Sugar Land - Green, Candice H. - 38
+Sugar Land - Hall, Sally S. - 44
+Sugar Land - Hammervold, Jerry - 60
+Sugar Land - Kwan, Raymond - 60
+Sugar Land - Mannion, John - 41
+Sugar Land - Schroeder, Steve - 47
+Sugar Land - Tran, Kim - 47
+Sugar Land - Wu, Allen M. - 64
+Temple - Allen, Samantha J - 23
+Temple - Allen, Steven R - 55
+Texarkana - Campisi, Steve G - 48
+Texarkana - Haynes, William J. - 47
+Texas City - Finan, Nicholas - 54
+The Colony - Beckel, Donald J. - 63
+The Woodlands - Beckman, Erin M. - 22
+The Woodlands - Blevins, Krista P. - 42
+The Woodlands - Cahill, Erica L. - 47
+The Woodlands - Deprang, Phillip C. - 61
+The Woodlands - Donelan, Michael B - 63
+The Woodlands - Gohlke, Gregg R. - 57
+The Woodlands - Haberle, Fred J. - 61
+The Woodlands - Harvey, Grant A. - 48
+The Woodlands - Hill, Lisa - 44
+The Woodlands - Killeen, Joseph - 53
+The Woodlands - Mackay, Rodney C. - 45
+The Woodlands - McGill, Michelle - 45
+The Woodlands - Menendez, Jessica - 37
+The Woodlands - Monesmith, Heath B. - 42
+The Woodlands - Reich, Courtney N. - 20
+The Woodlands - Saims, Tina A. - 45
+The Woodlands - Schoppe, Nicole - 38
+The Woodlands - Smith, Stephen N. - 60
+The Woodlands - Vitucci, John C. - 23
+The Woodlands - Wilson, Nora - 56
+Tomball - Benford, Bryn - 30
+Tomball - Haskett, Brian S - 41
+Tomball - Riley, Paul - 31
+Tomball - Wandell, Ed J. - 55
+Trophy Club - Denny, Emily - 23
+Trophy Club - Goguen, Victoria - 46
+Trophy Club - Zaharis, Courtney L. - 50
+Tyler - Camp, John T - 51
+Tyler - Fieseler, Cathy M. - 54
+Tyler - Richbourg, Christy J. - 45
+Tyler - Sauter, Edward - 56
+Tyler - Volberding, Wes - 51
+Tyler - Webb, Frank J. - 43
+Tyler - Wilson, Harold W - 80
+University Park - Brown, Joanna - 36
+Waco - Grant, Hilary - 41
+Waco - McCall, Hannah S. - 32
+Waco - McMahon, Amanda - 24
+Watauga - Hathorn, Michele M - 56
+Weatherford - Scott, Felicia A. - 36
+Weatherford - Styles, Kolin - 26
+Webster - Yu, Zhao - 46
+Wichita Falls - Strohman, Shelly - 39
+Willow Park - Takacs, Greg - 36
+Wylie - Boley, Amber - 33

@@ -31,7 +31,7 @@ Armstrong
 Arp
 Athens
 Atlanta
-Austin, *State Capital*
+Austin
 Austonio
 Austwell
 Avery
@@ -579,7 +579,7 @@ Post
 Post Oak Bend City
 Pottsboro
 Prairie View
-Prairie Hill (Washington County)
+Prairie Hill
 Presidio
 Primera
 Princeton
