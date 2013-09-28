@@ -9,7 +9,7 @@ LA_STATE_ID = 26
 STATE_ID = LA_STATE_ID
 
 def request_data(city, age, stateID):
-    url = "http://www.baa.org/2013/cf/public/iframe_EntryLists.cfm?mode=results"
+    url = "http://registration.baa.org/2014/cf/public/iframe_EntryLists.cfm?mode=results"
     returnData = {}
 
     requestData = {
@@ -19,15 +19,15 @@ def request_data(city, age, stateID):
     }
 
     defaultData = {
-    "BibNumber":"",
-    "LastName":"",
-    "FirstName":"",
-    "Zip":"",
-    "CountryOfResidenceID":0,
-    "CountryOfCtzID":0,
-    "GenderID":0
+        "VarBibNumber":"",
+        "VarLastName":"",
+        "VarFirstName":"",
+        "VarZipList":"",
+        "VarCountryOfResList":0,
+        "VarCountryOfCtzList":0,
+        "GenderID":0
     }
-
+    
     data = dict(requestData.items() + defaultData.items())
 
     success = False
@@ -56,18 +56,20 @@ def extract_data(resultHTML):
 
     for row in peopleRows:
         tds = jQuery(row).children()
-        person = {
-            "name": jQuery(tds[2]).text(),
-            "age": jQuery(tds[3]).text(),
-            "city": jQuery(tds[5]).text()
-        }
-        peopleList.append(person)
+        if len(tds) > 5:
+            person = {
+                "name": jQuery(tds[2]).text(),
+                "age": jQuery(tds[3]).text(),
+                "city": jQuery(tds[5]).text()
+            }
+            peopleList.append(person)
+            
     return peopleList
 
 def output_data(peopleList):
     with open("la-data.txt", "a") as f:
         for p in peopleList:
-            f.write("%s - %s - %s\n" % (p['city'], p['name'], p['age']))
+            f.write("%s;%s;%s\n" % (p['city'].encode('utf8'), p['name'].encode('utf8'), p['age']))
 
 ####################
 # Begin execution
